@@ -3,3 +3,9 @@ Startup text test
 Made a change
 
 Renamed repo
+
+Changed branches
+
+Deleted branch 
+
+Recreated branch to do some merge stuff
