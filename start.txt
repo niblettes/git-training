@@ -9,3 +9,5 @@ Changed branches
 Deleted branch 
 
 Recreated branch to do some merge stuff
+
+Create a merge conflict by changing start.txt here
